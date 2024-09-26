@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelemetryRabbitClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ba9f3334197909a2e254305eb11624378a29d51")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelemetryRabbitClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelemetryRabbitClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
