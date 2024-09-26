@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelemetryRabbitClient", "TelemetryRabbitClient.csproj", "{197F08DB-98A1-4F34-B89B-704CD7363144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197F08DB-98A1-4F34-B89B-704CD7363144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197F08DB-98A1-4F34-B89B-704CD7363144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197F08DB-98A1-4F34-B89B-704CD7363144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197F08DB-98A1-4F34-B89B-704CD7363144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2BA968-7E96-4B1B-92BD-87B6A20A6EBF}
+	EndGlobalSection
+EndGlobal

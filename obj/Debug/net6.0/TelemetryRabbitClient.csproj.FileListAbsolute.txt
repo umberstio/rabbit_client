@@ -1,0 +1,17 @@
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.exe
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.deps.json
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.runtimeconfig.json
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.dll
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.pdb
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.csproj.AssemblyReference.cache
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.AssemblyInfoInputs.cache
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.AssemblyInfo.cs
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.csproj.CoreCompileInputs.cache
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\Telemetr.571F4DD9.Up2Date
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.dll
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\refint\TelemetryRabbitClient.dll
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.pdb
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.genruntimeconfig.cache
+C:\Users\umber\dotnet_projects\TelemetryRabbitClient\obj\Debug\net6.0\ref\TelemetryRabbitClient.dll
